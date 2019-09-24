@@ -1,7 +1,5 @@
 const rp = require('request-promise');
 const $ = require('cheerio');
-const potusParse = require('./potusParse');
-const url ='https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States';
 let url2 = 'http://malrad.fo/page.php?l=fo&MenuitemId=125&Id=125&s141=';
 const letters = ['A','Á','B','D','Ð','E','F','G','H','I','Í','J','K','L','M','N','O','Ó','P','R','S','T','U','Ú','V','Y','Ý']
 const fs = require('fs');
@@ -33,7 +31,7 @@ for(let i = 0; i < letters.length; i++){
                 console.log(myDict);
                 fs.appendFile('words.json', myDict, (err) => {
                     if (err) throw err;
-                    console.log('The lyrics were updated!');
+                    console.log('Done');
                 });
             }
         })
