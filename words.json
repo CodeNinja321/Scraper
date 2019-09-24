@@ -1,0 +1,829 @@
+[
+{"fo":"eftirgerð","en":"emulation"}
+,{"fo":"eginleiki","en":"attribute"}
+,{"fo":"egintelda","en":"PC/personal computer"}
+,{"fo":"eind","en":"unit"}
+,{"fo":"einindi h flt","en":"entity"}
+,{"fo":"elektronikkur","en":"electronics"}
+,{"fo":"endaknappur","en":"end key"}
+,{"fo":"endanýtari","en":"end-user"}
+,{"fo":"endurbyrjan","en":"restart"}
+,{"fo":"endurgerð","en":"recovery"}
+,{"fo":"endurkvæmur","en":"recursive"}
+,{"fo":"endurrita","en":"rewrite (to)"}
+,{"fo":"endurskoðað útgáva","en":"revised edition"}
+,{"fo":"endurstovna","en":"restore"}
+,{"fo":"endurtøka","en":"repetition"}
+,{"fo":"endurtøkulykkja","en":"repeat loop"}
+,{"fo":"ergeril k","en":"microprocessor"}
+,{"fo":"ertelda","en":"microcomputer"}
+,{"fo":"eyðkenni","en":"feature"}
+,{"fo":"fald h","en":"product"}
+,{"fo":"fara út","en":"exit (to)"}
+,{"fo":"farkleiv","en":"transistor"}
+,{"fo":"fartelda","en":"lap top computer"}
+,{"fo":"fastadiskur","en":"fixed disk"}
+,{"fo":"fastasnið","en":"fixed format"}
+,{"fo":"fastbundin","en":"static"}
+,{"fo":"fastbúnaður","en":"firmware"}
+,{"fo":"feitskrift","en":"bold face/bold"}
+,{"fo":"fella","en":"trap"}
+,{"fo":"festa","en":"attach (to)"}
+,{"fo":"fíla kv","en":"file"}
+,{"fo":"fílukervi","en":"file system"}
+,{"fo":"fíluskrá","en":"directory"}
+,{"fo":"fíluskrá2","en":"file type"}
+,{"fo":"fjarnet","en":"WAN/wide area network"}
+,{"fo":"fjarskifti h","en":"telecommunication"}
+,{"fo":"fjarstýring","en":"remote control"}
+,{"fo":"fjórðaættarliðsmál","en":"4GL/forth generation language"}
+,{"fo":"fjølgeril","en":"multiprocessor"}
+,{"fo":"fjølrásari","en":"multiplexer"}
+,{"fo":"fjølvi k","en":"macro"}
+,{"fo":"flagg","en":"flag"}
+,{"fo":"fleirkoyrsla","en":"multitasking"}
+,{"fo":"fleirnýtarakervi","en":"multiuser system"}
+,{"fo":"flís","en":"chip"}
+,{"fo":"flyta","en":"transfer (to)"}
+,{"fo":"flytandi","en":"relocatable"}
+,{"fo":"flætta","en":"merge (to)"}
+,{"fo":"foritanarmál","en":"programming language"}
+,{"fo":"formbroyta","en":"convert (to)"}
+,{"fo":"formbroyti k","en":"converter"}
+,{"fo":"formgáva","en":"design"}
+,{"fo":"formur","en":"template"}
+,{"fo":"forrit","en":"program"}
+,{"fo":"forrita","en":"code (to), orogram (to)"}
+,{"fo":"forritan","en":"programming"}
+,{"fo":"forritari","en":"programmer"}
+,{"fo":"forritasavn","en":"program library"}
+,{"fo":"forritsfíla","en":"program file"}
+,{"fo":"forritsmótul","en":"program modul"}
+,{"fo":"forritstekstur","en":"program code"}
+,{"fo":"forsettur","en":"default"}
+,{"fo":"forskrift","en":"procedure"}
+,{"fo":"forsniða","en":"format (to)"}
+,{"fo":"forstíla","en":"index (to)"}
+,{"fo":"forsøgin","en":"predictive"}
+,{"fo":"forsøgn","en":"prediction"}
+,{"fo":"fortekn","en":"sign"}
+,{"fo":"framforrit","en":"foreground program"}
+,{"fo":"framleiðing","en":"product"}
+,{"fo":"frammantelda","en":"front end computer"}
+,{"fo":"framskák","en":"forward slash"}
+,{"fo":"frádrag","en":"decrement"}
+,{"fo":"frádragari","en":"subtractor"}
+,{"fo":"frádráttur","en":"subtraction"}
+,{"fo":"frámerki","en":"tag"}
+,{"fo":"frámerkjandi","en":"significant"}
+,{"fo":"frumforrit","en":"source program"}
+,{"fo":"frummál","en":"source language"}
+,{"fo":"frumrit","en":"original"}
+,{"fo":"frymd kv","en":"primitive"}
+,{"fo":"fullskíggjaritil","en":"full screen editor"}
+,{"fo":"funkuknappur","en":"function key"}
+,{"fo":"fylgitelda","en":"satellite computer"}
+,{"fo":"fylki","en":"array"}
+,{"fo":"fylla","en":"fill (to)"}
+,{"fo":"fylling","en":"padding"}
+,{"fo":"fyribils","en":"temporary"}
+,{"fo":"fyrispurningur","en":"query"}
+,{"fo":"dagføra","en":"update (to)"}
+,{"fo":"dátuberi k","en":"data carrier"}
+,{"fo":"dátubygnaður","en":"data structure"}
+,{"fo":"dátugrunnur","en":"data base"}
+,{"fo":"dátugrunsforrit","en":"data base program"}
+,{"fo":"dátuheilskapur","en":"data integrity"}
+,{"fo":"dátuheiti","en":"identifier"}
+,{"fo":"dáturøkiskapur","en":"data discipline"}
+,{"fo":"dátusending","en":"data transmission"}
+,{"fo":"dátuskrá","en":"data dictionary"}
+,{"fo":"dátuviðgerð","en":"data processing"}
+,{"fo":"diskadriv","en":"disk drive"}
+,{"fo":"diskil k","en":"diskette, floppy disk"}
+,{"fo":"diskladriv","en":"diskette drive"}
+,{"fo":"disklastøð","en":"diskette station"}
+,{"fo":"diskrúmd","en":"disk volume"}
+,{"fo":"diskur","en":"disk"}
+,{"fo":"draga frá","en":"decrement (to), subtract (to)"}
+,{"fo":"draga inn","en":"indent (to)"}
+,{"fo":"driv h","en":"drive"}
+,{"fo":"drívari","en":"driver"}
+,{"fo":"dultekstur","en":"cipher"}
+,{"fo":"dumsa","en":"dump (to)"}
+,{"fo":"afturboðan","en":"feedback"}
+,{"fo":"afturkomuferð","en":"refresh rate"}
+,{"fo":"afturvending","en":"carriage return"}
+,{"fo":"albøta","en":"optimize (to)"}
+,{"fo":"algoritma","en":"algorithm"}
+,{"fo":"alisligur","en":"physical"}
+,{"fo":"almannaforrit","en":"public domain program"}
+,{"fo":"almannalykil","en":"public key"}
+,{"fo":"alnýtari","en":"superuser"}
+,{"fo":"alsom streymveiting","en":"UPS/uninteruptable power supply"}
+,{"fo":"amboð","en":"tools"}
+,{"fo":"ambætari","en":"server"}
+,{"fo":"angra","en":"undo (to)"}
+,{"fo":"arbeiðsligur","en":"ergonomical"}
+,{"fo":"atgerð","en":"operation"}
+,{"fo":"atgongd","en":"access"}
+,{"fo":"atgongdartíð","en":"access time"}
+,{"fo":"atkoma kv","en":"admission"}
+,{"fo":"atlagari","en":"adapter"}
+,{"fo":"atlát","en":"password"}
+,{"fo":"atsetur","en":"address"}
+,{"fo":"avbrongla","en":"decrypt/decipher (to)"}
+,{"fo":"avgreiðslutíð","en":"turn-around time"}
+,{"fo":"avlinju-","en":"off-line"}
+,{"fo":"avmyndan","en":"mapping"}
+,{"fo":"avrik","en":"performance"}
+,{"fo":"avrika","en":"perform (to)"}
+,{"fo":"avriksroynd","en":"benchmark-test"}
+,{"fo":"avrit","en":"copy"}
+,{"fo":"avrita","en":"copy (to)"}
+,{"fo":"avritsvardur","en":"copy-protected"}
+,{"fo":"avtúgva","en":"unpack (to)"}
+,{"fo":"bakforrit","en":"background program"}
+,{"fo":"bakglopp","en":"backspace"}
+,{"fo":"bakskák","en":"back slash"}
+,{"fo":"band","en":"tape"}
+,{"fo":"bandbreidd","en":"bandwidth"}
+,{"fo":"baud h","en":"baud"}
+,{"fo":"báðar vegir","en":"duplex"}
+,{"fo":"beina","en":"route (to)"}
+,{"fo":"beinari","en":"router"}
+,{"fo":"beining","en":"routing"}
+,{"fo":"beinleiðis atgongd","en":"direct access"}
+,{"fo":"bekt kv","en":"batch"}
+,{"fo":"belti","en":"zone"}
+,{"fo":"bera saman","en":"compare (to)"}
+,{"fo":"binding","en":"binding"}
+,{"fo":"bindistrika","en":"hyphen"}
+,{"fo":"bit [bi:t] h","en":"bit"}
+,{"fo":"bíðibundin","en":"busy wait"}
+,{"fo":"bíðirøð","en":"queue"}
+,{"fo":"bíðistøða","en":"waitstate"}
+,{"fo":"blokkur","en":"block"}
+,{"fo":"boð h flt","en":"instruction"}
+,{"fo":"boðan","en":"message,"}
+,{"fo":"borð","en":"board,"}
+,{"fo":"borðtelda","en":"desk-top computer"}
+,{"fo":"breddi","en":"margin"}
+,{"fo":"breidd","en":"width"}
+,{"fo":"breiða kv","en":"semaphore"}
+,{"fo":"breiðband","en":"broadband"}
+,{"fo":"brekforrit","en":"diagnostic program"}
+,{"fo":"breyt","en":"bus"}
+,{"fo":"brigdil k","en":"variable"}
+,{"fo":"brongla","en":"encrypt/encipher (to)"}
+,{"fo":"bronglari","en":"scrambler"}
+,{"fo":"brotknappur","en":"break key"}
+,{"fo":"brotstaður","en":"break point"}
+,{"fo":"brytil k","en":"fractal"}
+,{"fo":"bundnatal","en":"parameter"}
+,{"fo":"byggilag","en":"architecture"}
+,{"fo":"bygnaður","en":"structure"}
+,{"fo":"byrjan","en":"startup"}
+,{"fo":"byrjanaratsetur","en":"start address"}
+,{"fo":"být k","en":"byte"}
+,{"fo":"býta","en":"swap (to)"}
+,{"fo":"býta um","en":"exchange (to)"}
+,{"fo":"bøta","en":"patch (to)"}
+,{"fo":"bøtari","en":"patcher"}
+,{"fo":"kaðallegging","en":"cabling"}
+,{"fo":"kaga","en":"browse (to)"}
+,{"fo":"kall","en":"call"}
+,{"fo":"kelda","en":"source"}
+,{"fo":"keldufíla","en":"source file"}
+,{"fo":"kemba","en":"debug (to)"}
+,{"fo":"kembari","en":"debugger"}
+,{"fo":"kerva","en":"systematize (to)"}
+,{"fo":"kervi h","en":"system"}
+,{"fo":"kilobýt","en":"Kb/kilobyte"}
+,{"fo":"kisil k","en":"silicon"}
+,{"fo":"kjarni","en":"core, kernel"}
+,{"fo":"klikkja","en":"click (to)"}
+,{"fo":"klingra","en":"cylinder"}
+,{"fo":"klipp h","en":"cut"}
+,{"fo":"klippa","en":"cut (to)"}
+,{"fo":"klippa og líma","en":"cut and paste"}
+,{"fo":"klokka","en":"clock"}
+,{"fo":"klokkubákn","en":"clock signal"}
+,{"fo":"klombur h","en":"parenthesis"}
+,{"fo":"klúgva","en":"split (to)"}
+,{"fo":"knappaborð","en":"keyboard"}
+,{"fo":"knappaklikk","en":"key click"}
+,{"fo":"knappur","en":"key"}
+,{"fo":"knútur","en":"node"}
+,{"fo":"kort","en":"card"}
+,{"fo":"kostur","en":"option"}
+,{"fo":"kota kv","en":"code"}
+,{"fo":"kovi","en":"coche"}
+,{"fo":"koyra","en":"run (to)"}
+,{"fo":"koyrsla","en":"task"}
+,{"fo":"koyrslubrek","en":"run time error"}
+,{"fo":"kós","en":"direction"}
+,{"fo":"kravfesting k","en":"requirements specification"}
+,{"fo":"krosstilvísing","en":"cross-reference"}
+,{"fo":"kunnleikakervi","en":"knowledge based system"}
+,{"fo":"gagnnýti h","en":"efficiency"}
+,{"fo":"gagnnýtur","en":"effective"}
+,{"fo":"gátal","en":"check digit"}
+,{"fo":"geiri","en":"sector"}
+,{"fo":"geislaprentari","en":"laser printer"}
+,{"fo":"gerðalista","en":"log (to)"}
+,{"fo":"gerðalisti","en":"log"}
+,{"fo":"geril k","en":"processor"}
+,{"fo":"gevast","en":"quit (to)"}
+,{"fo":"gilda","en":"enable (to)"}
+,{"fo":"gjøgnumferð","en":"transit"}
+,{"fo":"gjøgnumtak","en":"throughput"}
+,{"fo":"glaða","en":"beacon (to)"}
+,{"fo":"glopp","en":"space, blank"}
+,{"fo":"gluggi","en":"window"}
+,{"fo":"goyma","en":"save (to), store (to)"}
+,{"fo":"goyming","en":"storing"}
+,{"fo":"goymsla","en":"storage"}
+,{"fo":"goymslueind","en":"storage unit"}
+,{"fo":"greiðboð","en":"prompt"}
+,{"fo":"greina","en":"analyze (to)"}
+,{"fo":"grundband","en":"baseband"}
+,{"fo":"grundtal","en":"radix"}
+,{"fo":"gyrði h","en":"flexibility"}
+,{"fo":"gyrðin","en":"flexible"}
+,{"fo":"halda upp á","en":"assert (to)"}
+,{"fo":"hand-","en":"manual"}
+,{"fo":"handanmál","en":"metalanguage"}
+,{"fo":"handbók","en":"manual"}
+,{"fo":"handfari k","en":"handler"}
+,{"fo":"harðdiskur","en":"harddisk"}
+,{"fo":"háloysin l","en":"high resulution"}
+,{"fo":"háloysni h","en":"high resolution"}
+,{"fo":"hálýsing","en":"highlighting"}
+,{"fo":"háskrift","en":"superscript"}
+,{"fo":"hástigsmál","en":"high level language"}
+,{"fo":"hátídd kv","en":"high frequency"}
+,{"fo":"háttalag","en":"method"}
+,{"fo":"hátætti k","en":"high density"}
+,{"fo":"heildarvent forrit","en":"object oriented program"}
+,{"fo":"heilskapur","en":"integrity"}
+,{"fo":"heiltal","en":"integer"}
+,{"fo":"heiltøkur","en":"global"}
+,{"fo":"heimild","en":"authorization"}
+,{"fo":"heimknappur","en":"home key"}
+,{"fo":"heinta","en":"retrieve (to)"}
+,{"fo":"helling","en":"bias"}
+,{"fo":"helvtarleiting","en":"binary search"}
+,{"fo":"hending","en":"event"}
+,{"fo":"hentleikaforrit","en":"utility program"}
+,{"fo":"herma","en":"emulate (to)"}
+,{"fo":"hermari","en":"emulator"}
+,{"fo":"hissinistal","en":"random number,"}
+,{"fo":"hitaprentari","en":"thermal printer,"}
+,{"fo":"hjágeril","en":"coprocessor"}
+,{"fo":"hjálpar-","en":"auxiliary"}
+,{"fo":"hjálparknappur","en":"help key"}
+,{"fo":"hjálpartekstur","en":"help text"}
+,{"fo":"holaband","en":"paper tape"}
+,{"fo":"hugtakasavn","en":"thesaurus"}
+,{"fo":"hústelda","en":"home computer"}
+,{"fo":"hylkisband","en":"tape cassette"}
+,{"fo":"hækkandi","en":"ascending"}
+,{"fo":"høgrajavna","en":"right justify (to)"}
+,{"fo":"høgri breddi","en":"right margin"}
+,{"fo":"javnatekn (=)","en":"equal sign"}
+,{"fo":"javnindi h flt","en":"parity"}
+,{"fo":"inna","en":"execute (to)"}
+,{"fo":"innbygdur","en":"build-in"}
+,{"fo":"inndráttur","en":"indent"}
+,{"fo":"inngangur","en":"entry point"}
+,{"fo":"inning","en":"execution"}
+,{"fo":"innknappur","en":"enter key"}
+,{"fo":"innlegging","en":"installation"}
+,{"fo":"innleiða","en":"initialize (to)"}
+,{"fo":"innleiðsla","en":"initiation"}
+,{"fo":"innleiðsluval","en":"initial choice"}
+,{"fo":"innritast","en":"log on/log in (to)"}
+,{"fo":"innskildur","en":"heuristic"}
+,{"fo":"innskot","en":"insertion"}
+,{"fo":"innskotsknappur","en":"insert key"}
+,{"fo":"innskotsstandur","en":"insert mode"}
+,{"fo":"innsláttur","en":"key entry"}
+,{"fo":"innstøkk","en":"impulse"}
+,{"fo":"inntak","en":"input"}
+,{"fo":"inntaksforrit","en":"input program"}
+,{"fo":"margfalda","en":"replicate"}
+,{"fo":"markamót","en":"interface"}
+,{"fo":"markatekn","en":"delimiter"}
+,{"fo":"málteld","en":"computational linguistics"}
+,{"fo":"megabýt","en":"Mb/megabyte"}
+,{"fo":"meginregla","en":"principle"}
+,{"fo":"megni h","en":"capacity"}
+,{"fo":"merki","en":"mark"}
+,{"fo":"merkingarfrøði","en":"semantics"}
+,{"fo":"merkingarligur","en":"semantical"}
+,{"fo":"merkja","en":"mark (to)"}
+,{"fo":"mest merkjandi talstavur","en":"most significant digit"}
+,{"fo":"mesta  s","en":"maximize (to)"}
+,{"fo":"miðalatgongdartíð","en":"mean access time"}
+,{"fo":"miðaltíð","en":"mean time"}
+,{"fo":"miðfirra","en":"decentralize (to)"}
+,{"fo":"miðil k","en":"medium"}
+,{"fo":"miðlamynd","en":"media diagram"}
+,{"fo":"miðsavna","en":"centralize (to)"}
+,{"fo":"miðseta","en":"center (to)"}
+,{"fo":"minni","en":"memory"}
+,{"fo":"minnisdeild","en":"memory partition"}
+,{"fo":"minnisdiskur","en":"memorydisk, RAM-disk"}
+,{"fo":"minst merkjandi talstavur","en":"least significant digit"}
+,{"fo":"minsta s","en":"minimize (to)"}
+,{"fo":"móðurborð","en":"motherboard"}
+,{"fo":"mótald h","en":"modem"}
+,{"fo":"mótfylla kv","en":"complement"}
+,{"fo":"mótul k","en":"modul"}
+,{"fo":"mús","en":"mouse"}
+,{"fo":"myndil k","en":"model"}
+,{"fo":"myndlan kv","en":"modelling"}
+,{"fo":"mynstur","en":"pattern"}
+,{"fo":"mynsturkensl h","en":"pattern recognition"}
+,{"fo":"møna","en":"monitor"}
+,{"fo":"laga til","en":"customize (to)"}
+,{"fo":"lata aftur","en":"close (to)"}
+,{"fo":"lata út","en":"release (to)"}
+,{"fo":"lágloysin l","en":"low resolution"}
+,{"fo":"lágloysni h","en":"low resolution"}
+,{"fo":"lágskrift","en":"subscript"}
+,{"fo":"lágtídd kv","en":"low frequency"}
+,{"fo":"leggja inn","en":"install (to)"}
+,{"fo":"leggja saman","en":"add (to)"}
+,{"fo":"leggur","en":"branch"}
+,{"fo":"leið","en":"path"}
+,{"fo":"leiða","en":"pipe (to)"}
+,{"fo":"leiðarit","en":"flowchart"}
+,{"fo":"leiðsla","en":"management"}
+,{"fo":"leingjari","en":"extension (cord)"}
+,{"fo":"leita","en":"search (to)"}
+,{"fo":"leiting","en":"search"}
+,{"fo":"leitingarlykil","en":"search key"}
+,{"fo":"lesa","en":"read (to),"}
+,{"fo":"lesiminni","en":"ROM"}
+,{"fo":"leypa um","en":"skip (to)"}
+,{"fo":"leysadiskur","en":"removable disk"}
+,{"fo":"lið um lið","en":"parallel"}
+,{"fo":"liður","en":"item"}
+,{"fo":"linjuskifti","en":"line switching"}
+,{"fo":"lista","en":"list (to)"}
+,{"fo":"listi","en":"list"}
+,{"fo":"litaval","en":"palette"}
+,{"fo":"líkning kv","en":"equation"}
+,{"fo":"líma","en":"paste (to)"}
+,{"fo":"ljóðsvari k","en":"audio response unit"}
+,{"fo":"ljóslesa","en":"scan (to)"}
+,{"fo":"ljóslesari","en":"optical reader, optical scanner"}
+,{"fo":"ljóslestrar stavakensl","en":"OCR/optical character recognition"}
+,{"fo":"ljóslestur","en":"optical reading, optical scanning"}
+,{"fo":"ljóspennur","en":"light pen"}
+,{"fo":"ljóstráðatøkni","en":"fiber optics"}
+,{"fo":"ljóstráður","en":"optical fiber"}
+,{"fo":"lokað lykkja","en":"closed loop"}
+,{"fo":"lop","en":"jump"}
+,{"fo":"lopkommatal","en":"floating-point number"}
+,{"fo":"loysnarknappur","en":"escape key"}
+,{"fo":"loysnarstavur","en":"escape character"}
+,{"fo":"lógvatak","en":"handshake"}
+,{"fo":"lutbúnaður","en":"shareware"}
+,{"fo":"lús","en":"bug"}
+,{"fo":"lykilorð","en":"keyword"}
+,{"fo":"lykilrein","en":"key field"}
+,{"fo":"lykkja","en":"loop"}
+,{"fo":"lýsiorð","en":"descriptor"}
+,{"fo":"lækkandi","en":"descending"}
+,{"fo":"læna","en":"borrow (to)"}
+,{"fo":"løða","en":"load (to)"}
+,{"fo":"løðari","en":"loader"}
+,{"fo":"samanlegging","en":"addition"}
+,{"fo":"samanseting","en":"configuration"}
+,{"fo":"samansettur","en":"composite"}
+,{"fo":"sambindari","en":"connector"}
+,{"fo":"sambinding","en":"connection"}
+,{"fo":"sambundin","en":"associative"}
+,{"fo":"sameina","en":"join (to)"}
+,{"fo":"samgeril k","en":"parallel processor"}
+,{"fo":"samgildistelda","en":"analog computer"}
+,{"fo":"samgildur","en":"analog"}
+,{"fo":"samheingishjálp","en":"contextual help"}
+,{"fo":"samkervi","en":"integrated system"}
+,{"fo":"samlát","en":"simulation"}
+,{"fo":"samlátast","en":"simulate (to)"}
+,{"fo":"samláti k","en":"simulator"}
+,{"fo":"samleggjari","en":"adder"}
+,{"fo":"samløga","en":"sum"}
+,{"fo":"samnýtarakervi","en":"shared system"}
+,{"fo":"samnýti k","en":"compatibility"}
+,{"fo":"samnýtur","en":"compatible"}
+,{"fo":"samrás","en":"integrated circuit"}
+,{"fo":"samrøða","en":"dialog"}
+,{"fo":"samsending","en":"parallel transmission"}
+,{"fo":"samskifti h","en":"communication"}
+,{"fo":"samskiftisreglur","en":"communication protocol"}
+,{"fo":"samsvar","en":"match"}
+,{"fo":"samtalva","en":"relation"}
+,{"fo":"samtalvudátugrunnur","en":"relational data base"}
+,{"fo":"samtíðis","en":"concurrent"}
+,{"fo":"samvirkin","en":"interactive"}
+,{"fo":"sanna","en":"verify (to)"}
+,{"fo":"sannindatalva","en":"truthtable"}
+,{"fo":"savnari","en":"assembler"}
+,{"fo":"savnsforrit","en":"library program"}
+,{"fo":"seinkan","en":"delay"}
+,{"fo":"sekstandatal","en":"hexadecimal number"}
+,{"fo":"senda upp","en":"upload (to)"}
+,{"fo":"sendiferð","en":"transmission rate"}
+,{"fo":"sernýtslukervi","en":"dedicated system"}
+,{"fo":"seta í","en":"mount (to)"}
+,{"fo":"seta í gongd","en":"start (to)"}
+,{"fo":"seta í staðin","en":"replace (to)"}
+,{"fo":"seta í verk","en":"implement (to)"}
+,{"fo":"seta1 kv","en":"session"}
+,{"fo":"seta2 s","en":"set (to)"}
+,{"fo":"setiborð","en":"clipboard"}
+,{"fo":"setningsbygnaður","en":"syntax"}
+,{"fo":"setningskannari","en":"syntax checker"}
+,{"fo":"setningur","en":"statement"}
+,{"fo":"sigulband","en":"magnetic tape"}
+,{"fo":"síða","en":"page"}
+,{"fo":"síðumerking","en":"page numbering"}
+,{"fo":"síðuskifti","en":"form feed"}
+,{"fo":"síla kv","en":"mask"}
+,{"fo":"sínámillum útilokan","en":"mutual exclusion"}
+,{"fo":"sjálvbjargin útstøð","en":"intelligent terminal"}
+,{"fo":"sjálvbyrja","en":"boot strap (to)"}
+,{"fo":"sjálvstøðugt kervi","en":"stand-alone system"}
+,{"fo":"sjálvvirkin","en":"automatic"}
+,{"fo":"sjálvvirking","en":"automation"}
+,{"fo":"skapfrøði","en":"topology"}
+,{"fo":"skák","en":"slash"}
+,{"fo":"skákskrift","en":"italics"}
+,{"fo":"skel kv","en":"shell"}
+,{"fo":"skeljarrit","en":"shell script"}
+,{"fo":"skifta","en":"switch (to)"}
+,{"fo":"skifti","en":"transition"}
+,{"fo":"skiftibásur","en":"shift register"}
+,{"fo":"skiftiknappur","en":"shift key"}
+,{"fo":"skiftil k","en":"switch"}
+,{"fo":"skilmarka","en":"define (to)"}
+,{"fo":"skilmarkan","en":"definition"}
+,{"fo":"skilvís atgerð","en":"logical operation"}
+,{"fo":"skilvísur","en":"logical"}
+,{"fo":"skíggi k","en":"screen"}
+,{"fo":"skíggjadepil","en":"pixel"}
+,{"fo":"skíggjaloysni h","en":"screen resolution"}
+,{"fo":"skíggjamynd","en":"screen view"}
+,{"fo":"skíggjaprent","en":"print screen"}
+,{"fo":"skjal","en":"document"}
+,{"fo":"skjalfesting","en":"documentation"}
+,{"fo":"skjalsniðari","en":"document formatter"}
+,{"fo":"skjóta inn","en":"insert (to)"}
+,{"fo":"skorfesti h","en":"deadlock"}
+,{"fo":"skotmynd","en":"shootup menu"}
+,{"fo":"skotra","en":"pan (to)"}
+,{"fo":"skotran","en":"panning"}
+,{"fo":"skrá","en":"register"}
+,{"fo":"skriva","en":"write (to)"}
+,{"fo":"skriva oman á","en":"overwrite (to)"}
+,{"fo":"skrivihøvd","en":"writing head"}
+,{"fo":"skrivivardur","en":"write protected"}
+,{"fo":"skrivstovusjálvvirking","en":"office automation"}
+,{"fo":"skrulla [-dla]","en":"scroll (to)"}
+,{"fo":"skrullilás [-dl-]","en":"scroll lock"}
+,{"fo":"skyldsemi kv","en":"relationship"}
+,{"fo":"slag","en":"type"}
+,{"fo":"sláa inn","en":"key (to)"}
+,{"fo":"sláa upp","en":"look up (to)"}
+,{"fo":"slepping","en":"release"}
+,{"fo":"slit","en":"interrupt"}
+,{"fo":"sloka","en":"slot"}
+,{"fo":"slóðfesti","en":"audit trail"}
+,{"fo":"smá-","en":"minor"}
+,{"fo":"smátelda","en":"minicomputer"}
+,{"fo":"snara","en":"rotate (to)"}
+,{"fo":"snið","en":"format"}
+,{"fo":"snúningur","en":"rotation"}
+,{"fo":"sonn tíð","en":"real time"}
+,{"fo":"sor","en":"crash"}
+,{"fo":"spegling","en":"mirroring"}
+,{"fo":"spjaldur","en":"label"}
+,{"fo":"spoling","en":"spooling"}
+,{"fo":"spor","en":"track"}
+,{"fo":"spora","en":"trace (to)"}
+,{"fo":"sporiforrit","en":"trace program"}
+,{"fo":"staðrætta","en":"justify (to)"}
+,{"fo":"staðvísi k","en":"marker"}
+,{"fo":"stakkur","en":"stack"}
+,{"fo":"staknýtari","en":"single user"}
+,{"fo":"standari k","en":"standard"}
+,{"fo":"standur k","en":"mode"}
+,{"fo":"stangarkota","en":"bar code"}
+,{"fo":"stangarprentari","en":"bar printer"}
+,{"fo":"stappa","en":"compress (to)"}
+,{"fo":"stavakensl","en":"character recognition"}
+,{"fo":"stavamynd","en":"typeface"}
+,{"fo":"stavasnið","en":"font"}
+,{"fo":"stavrað","en":"alphabet"}
+,{"fo":"stavraða","en":"alphabetize (to)"}
+,{"fo":"stavraðaður","en":"alphabetical"}
+,{"fo":"stavur","en":"character"}
+,{"fo":"steðgiknappur","en":"stop key"}
+,{"fo":"stevjavnaður","en":"synchronous"}
+,{"fo":"stigveldisbygnaður","en":"hierarchic structure"}
+,{"fo":"stilla","en":"align (to)"}
+,{"fo":"stjørna","en":"asterisk"}
+,{"fo":"stjørnunet","en":"star network"}
+,{"fo":"stovna","en":"create (to)"}
+,{"fo":"stór-","en":"major"}
+,{"fo":"stórstavalás","en":"caps lock"}
+,{"fo":"stórtelda","en":"mainframe"}
+,{"fo":"strika","en":"erase (to), delete (to)"}
+,{"fo":"strika undir","en":"underscore (to)"}
+,{"fo":"strikiknappur","en":"delete key"}
+,{"fo":"strongur","en":"string"}
+,{"fo":"stuðla","en":"assist (to)"}
+,{"fo":"stúgva","en":"pack (to)"}
+,{"fo":"stytting","en":"abbreviation"}
+,{"fo":"stýriboð h flt","en":"command"}
+,{"fo":"stýrieind","en":"control unit"}
+,{"fo":"stýriforrit","en":"control program"}
+,{"fo":"stýrifrøði","en":"cybernetics"}
+,{"fo":"stýrikervi","en":"operating system"}
+,{"fo":"stýriknappur","en":"control key/CTRL"}
+,{"fo":"stýristøð","en":"console"}
+,{"fo":"stýrisvølur","en":"joy stick"}
+,{"fo":"stýritekn","en":"control character"}
+,{"fo":"stýva","en":"truncate (to)"}
+,{"fo":"stødda","en":"size (to)"}
+,{"fo":"støða","en":"state,  sí"}
+,{"fo":"støðugur","en":"permanent"}
+,{"fo":"støðuregla","en":"status line"}
+,{"fo":"støðuskifti","en":"state transition"}
+,{"fo":"støkkmynd","en":"pop-up menu"}
+,{"fo":"suð","en":"noise,"}
+,{"fo":"surr","en":"zoom"}
+,{"fo":"surra","en":"zoom (to)"}
+,{"fo":"svartíð","en":"response time"}
+,{"fo":"svíkur","en":"fault"}
+,{"fo":"sýna","en":"display (to)"}
+,{"fo":"sýni","en":"view"}
+,{"fo":"sýnislitur","en":"display color"}
+,{"fo":"sæti","en":"position"}
+,{"fo":"orðbýting","en":"hyphenation"}
+,{"fo":"ovfylli h","en":"redundancy"}
+,{"fo":"ovurtekstur","en":"hypertext"}
+,{"fo":"ovurtelda","en":"supercomputer"}
+,{"fo":"rað","en":"row"}
+,{"fo":"raða","en":"sort (to) sortere"}
+,{"fo":"raðfesti h","en":"priority"}
+,{"fo":"raðfylgi h","en":"sequence"}
+,{"fo":"raðfylgin l","en":"sequential"}
+,{"fo":"raðsending","en":"serial transmission"}
+,{"fo":"raðtal","en":"subscript"}
+,{"fo":"rammi k","en":"border"}
+,{"fo":"rás","en":"channel"}
+,{"fo":"regluendi","en":"end of line"}
+,{"fo":"regluformur","en":"normal form"}
+,{"fo":"reglulop","en":"line feed"}
+,{"fo":"regluprentari","en":"line printer"}
+,{"fo":"regluritil","en":"line editor"}
+,{"fo":"regluskipa","en":"normalize (to)"}
+,{"fo":"reglusmog h","en":"wraparound"}
+,{"fo":"reiðlag","en":"relay"}
+,{"fo":"reiðraður","en":"nested"}
+,{"fo":"rein kv (flt:reinar)","en":"field"}
+,{"fo":"reinsa","en":"clear (to)"}
+,{"fo":"rekkja","en":"record"}
+,{"fo":"rekkjulongd","en":"record length"}
+,{"fo":"renniband","en":"streamer tape"}
+,{"fo":"ringfesta","en":"cycle (to)"}
+,{"fo":"ringing","en":"dial-up"}
+,{"fo":"ringlisti","en":"circular list"}
+,{"fo":"ringnet","en":"ring network"}
+,{"fo":"ringrás","en":"circuit kredsløb"}
+,{"fo":"ringur","en":"cycle"}
+,{"fo":"rita","en":"type (to)"}
+,{"fo":"ritbúnaður","en":"software"}
+,{"fo":"ritil k","en":"editor"}
+,{"fo":"ritminni","en":"RAM"}
+,{"fo":"ritmynd","en":"diagram"}
+,{"fo":"ritseting","en":"text editing"}
+,{"fo":"ritstjóri","en":"editor"}
+,{"fo":"ritstjórna","en":"edit"}
+,{"fo":"roki","en":"overhead"}
+,{"fo":"rokniark","en":"spread sheet"}
+,{"fo":"rokniarksforrit","en":"spread sheet program"}
+,{"fo":"roknieind","en":"arithmetic unit"}
+,{"fo":"royndarforrit","en":"test program"}
+,{"fo":"rætta","en":"edit"}
+,{"fo":"rættlestur","en":"proofreading"}
+,{"fo":"rættstavari","en":"spell checker"}
+,{"fo":"rørleiðing","en":"pipeline"}
+,{"fo":"umbøn","en":"request"}
+,{"fo":"umdømi","en":"domain"}
+,{"fo":"umhvarv","en":"outline, profile"}
+,{"fo":"umhvørvi","en":"environment"}
+,{"fo":"ummynda","en":"transform (to)"}
+,{"fo":"umseta","en":"translate (to), compile (to)"}
+,{"fo":"umsetari","en":"compiler"}
+,{"fo":"umsiting","en":"maintenance"}
+,{"fo":"umsjón","en":"supervision"}
+,{"fo":"umsjónari","en":"supervisor"}
+,{"fo":"umskiftiknappur","en":"alternate key"}
+,{"fo":"umskriva","en":"transcribe (to)"}
+,{"fo":"umsnúgva","en":"convert (to)"}
+,{"fo":"umstava","en":"transliterate (to)"}
+,{"fo":"undirflot","en":"underflow"}
+,{"fo":"undirforrit","en":"subroutine"}
+,{"fo":"undirgrein","en":"footnote"}
+,{"fo":"undirstøð","en":"slave station"}
+,{"fo":"upplýsindi h flt","en":"informatics"}
+,{"fo":"upplýsing","en":"information"}
+,{"fo":"uppritsbók","en":"scratchpad"}
+,{"fo":"uppseting","en":"setup, layout"}
+,{"fo":"uppstiga","en":"upgrade (to)"}
+,{"fo":"uppstiging","en":"upgrade"}
+,{"fo":"pakki","en":"packet"}
+,{"fo":"pappírsleingja kv","en":"printer paper"}
+,{"fo":"pappírstrog","en":"paper tray"}
+,{"fo":"postkassi","en":"mailbox"}
+,{"fo":"prent","en":"print"}
+,{"fo":"prenta","en":"print (to)"}
+,{"fo":"prentari","en":"printer"}
+,{"fo":"prentrit","en":"hardcopy"}
+,{"fo":"pulja","en":"pool"}
+,{"fo":"puntur","en":"cell"}
+,{"fo":"nákvæmi h","en":"precision"}
+,{"fo":"nálaprentari","en":"matrix printer"}
+,{"fo":"nálýsing","en":"declaration"}
+,{"fo":"náptak","en":"pirate copy"}
+,{"fo":"náptøka","en":"software piracy"}
+,{"fo":"nároyna","en":"test (to)"}
+,{"fo":"nertiskíggi k","en":"touch screen"}
+,{"fo":"nervalíkis-","en":"neuro-"}
+,{"fo":"net","en":"network"}
+,{"fo":"netbygnaður","en":"network structure"}
+,{"fo":"netritmynd","en":"network chart"}
+,{"fo":"niðurdragsmynd","en":"pulldown menu"}
+,{"fo":"niðurtøka","en":"download"}
+,{"fo":"noktan","en":"negation"}
+,{"fo":"null","en":"zero"}
+,{"fo":"nýggj regla kv","en":"new line"}
+,{"fo":"nýnevna","en":"rename (to)"}
+,{"fo":"nýtarabók","en":"user's guide"}
+,{"fo":"nýtaramót","en":"user interface"}
+,{"fo":"nýtaratýður","en":"user friendly"}
+,{"fo":"nýtari","en":"consumer, user"}
+,{"fo":"nýtsluskipan","en":"application"}
+,{"fo":"nærnet","en":"LAN/local area network"}
+,{"fo":"yvirfíla","en":"master file"}
+,{"fo":"yvirflot","en":"overflow"}
+,{"fo":"yvirskriftarbjálki","en":"title bar"}
+,{"fo":"yvirstøð","en":"master station"}
+,{"fo":"tú fært tað, tú sært","en":"WYSIWYG/ what you see is what you get"}
+,{"fo":"taka niður","en":"download (to)"}
+,{"fo":"taka upp aftur","en":"resume (to)"}
+,{"fo":"taka úr","en":"dismount (to)"}
+,{"fo":"tal","en":"number"}
+,{"fo":"tal-","en":"numeric"}
+,{"fo":"talgilda","en":"digitize (to)"}
+,{"fo":"talgildistelda","en":"digital computer"}
+,{"fo":"talgildur l","en":"digital"}
+,{"fo":"talknappur","en":"numeric key"}
+,{"fo":"talkvørn","en":"number cruncher"}
+,{"fo":"talmerkja","en":"number (to)"}
+,{"fo":"talritan","en":"number representation"}
+,{"fo":"talstavur","en":"digit"}
+,{"fo":"talstovnur","en":"fixed point part"}
+,{"fo":"talstrekki","en":"interval"}
+,{"fo":"taltekn","en":"cipher"}
+,{"fo":"talva","en":"table"}
+,{"fo":"talvustýrdur","en":"table driven"}
+,{"fo":"teiga","en":"tabulate (to)"}
+,{"fo":"teigari","en":"tabulator"}
+,{"fo":"teigasmog h","en":"snaking column"}
+,{"fo":"teigshøvd","en":"column heading"}
+,{"fo":"teigur","en":"column"}
+,{"fo":"teingja (tát: tongdi)","en":"link (to)"}
+,{"fo":"teknari","en":"plotter"}
+,{"fo":"teknfeingi","en":"character set"}
+,{"fo":"teknindi h flt","en":"graphics"}
+,{"fo":"teksthøvd","en":"header"}
+,{"fo":"tekstvarp","en":"teletext"}
+,{"fo":"tekstviðgerð","en":"text processing"}
+,{"fo":"teld kv","en":"edp"}
+,{"fo":"telda1","en":"computer"}
+,{"fo":"telda2 s","en":"data process (to)"}
+,{"fo":"teldarfrøði","en":"datalogy"}
+,{"fo":"teldarfrøðingur -","en":"datalog"}
+,{"fo":"teldorð","en":"computer term"}
+,{"fo":"teldufløga","en":"CD-ROM"}
+,{"fo":"teldufrøði","en":"computer science"}
+,{"fo":"teldufrøðingur","en":"computer scientist"}
+,{"fo":"teldupostur","en":"electronic mail"}
+,{"fo":"telduprentgerð","en":"desk-top publishing"}
+,{"fo":"telduskíggi","en":"display unit"}
+,{"fo":"teldusníkur","en":"hacker"}
+,{"fo":"teldustuðlað formgáva","en":"CAD/computer assisted design"}
+,{"fo":"teldustuðlað læra","en":"CAL/computer assisted learning"}
+,{"fo":"teldustuðlað virking","en":"CAM/computer assisted manufacturing"}
+,{"fo":"telduteknindi h flt","en":"computer graphics"}
+,{"fo":"teldutøkni","en":"computer technology"}
+,{"fo":"teldutøkur","en":"machine readable"}
+,{"fo":"telduútgerð","en":"computer equipment"}
+,{"fo":"telduvørður","en":"system manager"}
+,{"fo":"teljari","en":"counter"}
+,{"fo":"teljitøl","en":"natural numbers"}
+,{"fo":"tilfeingi","en":"resources"}
+,{"fo":"tilgjørt mál","en":"artificial language"}
+,{"fo":"tilgjørt vit","en":"artificial intelligence"}
+,{"fo":"tilgongd","en":"process"}
+,{"fo":"tilluta","en":"assign (to)"}
+,{"fo":"tillutan","en":"assignment"}
+,{"fo":"tiltakseintak","en":"backup copy"}
+,{"fo":"tilvísingarbók","en":"reference manual"}
+,{"fo":"tippi h","en":"buffer"}
+,{"fo":"tídd kv","en":"frequency"}
+,{"fo":"tíðarbil","en":"interval"}
+,{"fo":"tíðarbýttur","en":"timeshared"}
+,{"fo":"tíðarskamtan","en":"timeslice"}
+,{"fo":"tíggjutalsstavur","en":"decimal digit"}
+,{"fo":"toli k","en":"operand"}
+,{"fo":"tólbúnaður","en":"hardware"}
+,{"fo":"tóldrívari","en":"device driver"}
+,{"fo":"tóleind","en":"device"}
+,{"fo":"tólmál","en":"machine language"}
+,{"fo":"tólmenni","en":"robot"}
+,{"fo":"tólóbundin","en":"machine independent"}
+,{"fo":"tómastrongur","en":"null string"}
+,{"fo":"tómstilla","en":"reset (to)"}
+,{"fo":"tráður","en":"thread"}
+,{"fo":"trumla","en":"drum"}
+,{"fo":"trúnaðardátur","en":"confidential data"}
+,{"fo":"trygdarrit","en":"back up"}
+,{"fo":"trygdarrita","en":"back up (to)"}
+,{"fo":"træ","en":"tree"}
+,{"fo":"træbygnaður","en":"tree structure"}
+,{"fo":"trænet","en":"tree network"}
+,{"fo":"tulkari","en":"interpreter"}
+,{"fo":"tungumál","en":"natural language"}
+,{"fo":"tútur","en":"tap"}
+,{"fo":"tvinnað linja","en":"twisted pair"}
+,{"fo":"tvífaldur tætti","en":"double density"}
+,{"fo":"tvífalt nákvæmi","en":"double precision"}
+,{"fo":"tvífylla kv","en":"twos complement"}
+,{"fo":"tvítals-","en":"binary"}
+,{"fo":"tykisligur","en":"virtual"}
+,{"fo":"tykisminni","en":"virtual memory"}
+,{"fo":"tænasta","en":"service"}
+,{"fo":"tætti k","en":"density"}
+,{"fo":"tøki h","en":"availability"}
+,{"fo":"tøknifrøði","en":"technology"}
+,{"fo":"vaka yvir","en":"monitor (to)"}
+,{"fo":"vallisti","en":"selection list"}
+,{"fo":"valmerki","en":"check marker"}
+,{"fo":"valmynd","en":"menu"}
+,{"fo":"valmyndastýrt forrit","en":"menu-driven program"}
+,{"fo":"valtøkur","en":"optional"}
+,{"fo":"varnari","en":"sensor"}
+,{"fo":"vátta","en":"confirm (to)"}
+,{"fo":"velja","en":"select (to)"}
+,{"fo":"verk","en":"job"}
+,{"fo":"verkark","en":"worksheet"}
+,{"fo":"verkbyrði","en":"workload"}
+,{"fo":"verkfeingi","en":"working set"}
+,{"fo":"verkseting","en":"implementation"}
+,{"fo":"verkskrá","en":"working directory"}
+,{"fo":"verkstýrimál","en":"job control language"}
+,{"fo":"verkstýring","en":"job control"}
+,{"fo":"verkstøð kv","en":"work station"}
+,{"fo":"verkætlan","en":"project,"}
+,{"fo":"verkøki","en":"working area"}
+,{"fo":"vernd","en":"protection"}
+,{"fo":"verndarlás","en":"privacy lock"}
+,{"fo":"vertstelda","en":"host (computer)"}
+,{"fo":"viðskiftari","en":"client"}
+,{"fo":"viðstøða","en":"assertion"}
+,{"fo":"villa","en":"error"}
+,{"fo":"villuboð","en":"error message"}
+,{"fo":"vinstri breddi","en":"left margin"}
+,{"fo":"vippa kv","en":"flip-flop"}
+,{"fo":"virði","en":"value"}
+,{"fo":"virkin gluggi","en":"active window"}
+,{"fo":"virking","en":"manufacturing"}
+,{"fo":"virkisbásur","en":"register"}
+,{"fo":"virkja (tát: virkti)","en":"activate (to)"}
+,{"fo":"virus h","en":"virus"}
+,{"fo":"vistfastur","en":"resident"}
+,{"fo":"víðkað minni","en":"extended/expanded memory"}
+,{"fo":"vísi k","en":"cursor"}
+,{"fo":"vísital","en":"index number"}
+,{"fo":"vísitalva","en":"index"}
+,{"fo":"vøkuforrit","en":"monitor program"}
+]
